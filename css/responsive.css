@@ -1,0 +1,75 @@
+@media screen and (max-width: 768px){
+  /*-- -----------------------
+        Navigation START
+---------------------------- */
+  header{
+    background: #212121;
+  }
+  .brand{
+    width: 100%;
+    float: none;
+  }
+  .brand-overlay{
+    display: none;
+  }
+  .toggle{
+    display: block;
+  }
+  .toggle-nav{
+    display: block;
+  }
+  nav{
+    width: 100%;
+    float: none;
+    display: none;
+  }
+  nav ul{
+    float: none;
+  }
+  nav ul li{
+    float: none;
+  }
+  nav ul li a{
+    padding: 12px;
+  }
+  nav ul li a:hover{
+    background: #111;
+  }
+  /*-- -----------------------
+        Navigation END
+---------------------------- */
+
+
+
+/*-- -----------------------
+        Showcase START
+---------------------------- */
+  .showcase-content{
+    width: 60%;
+    min-height: 60%;
+  }
+  .showcase-content h2{
+    font-size: 22px;
+  }
+  .social-link-icon{
+    width: 45px;
+    height: 45px;
+  }
+  /*-- -----------------------
+        Showcase END
+---------------------------- */
+
+
+
+  /*-- -----------------------
+        About START
+  ---------------------------- */
+  .profile-overlay a{
+    width: 40px;
+    height: 40px;
+  }
+  /*-- -----------------------
+        About END
+  ---------------------------- */
+
+}
